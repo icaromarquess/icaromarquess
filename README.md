@@ -43,11 +43,14 @@
 
 ---
 
+---
+
 ## 🏆 Troféus do GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=icaromarquess&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
