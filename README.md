@@ -45,17 +45,6 @@
 
 ---
 
-
-## 📈 Gráfico de Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icaromarquess&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-
-
----
-
 ## 🔗 Conecte-se Comigo
 
 <p align="center">
