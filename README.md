@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Ícaro Marques!</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul.</h3>
+<h3 align="center">Formado em Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul.</h3>
 
 
 
