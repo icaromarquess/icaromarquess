@@ -45,11 +45,13 @@
 
 ---
 
-## 🏆 Troféus do GitHub
+
+## 📈 Gráfico de Atividade
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=icaromarquess&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icaromarquess&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </p>
+
 
 
 ---
